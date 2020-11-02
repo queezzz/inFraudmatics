@@ -1,0 +1,23 @@
+,disease,type,count
+0,Heartfailure,Fraud,85950
+1,Heartfailure,Not Fraud,126846
+2,KidneyDisease,Fraud,122949
+3,KidneyDisease,Not Fraud,89847
+4,Cancer,Fraud,180218
+5,Cancer,Not Fraud,32578
+6,ObstrPulmonary,Fraud,144688
+7,ObstrPulmonary,Not Fraud,68108
+8,Depression,Fraud,120208
+9,Depression,Not Fraud,92588
+10,Diabetes,Fraud,62031
+11,Diabetes,Not Fraud,150765
+12,Osteoporasis,Fraud,145053
+13,Osteoporasis,Not Fraud,67743
+14,rheumatoidarthritis,Fraud,145953
+15,rheumatoidarthritis,Not Fraud,66843
+16,stroke,Fraud,190400
+17,stroke,Not Fraud,22396
+18,Alzheimer,Fraud,126449
+19,Alzheimer,Not Fraud,86347
+20,IschemicHeart,Fraud,50284
+21,IschemicHeart,Not Fraud,162512
