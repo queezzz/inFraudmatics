@@ -19,6 +19,7 @@ app = dash.Dash(__name__, title='InFraudmatics',
                 update_title='InFraudmatics App',
                 external_stylesheets=external_stylesheets)
 
+server = app.server
 
 df = pd.read_csv("phys_new.csv")
 model = joblib.load("final.pkl", mmap_mode="r")
